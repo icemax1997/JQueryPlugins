@@ -1,0 +1,60 @@
+body {
+  background: #00CDCD;
+}
+
+
+#test {
+	width: 100%;
+	height:700px;
+	background: #00CDCD;
+
+}
+#test-page{
+	width: 100%;
+	height:700px;
+	background: #ddf;
+}
+.intro {
+  position: absolute;
+  left: 0;
+  top: 30%;
+  width: 100%;
+}
+/*#test-summary {
+	font-size: 100px;
+  margin:0px;
+	position: relative;
+	font-family: "微软雅黑";
+	font-weight: bold;
+	text-align: center;
+
+}*/
+/*#test-describe {
+	font-size: 35px;
+	position: relative;
+	font-family: "微软雅黑";
+	font-weight: bold;
+	text-align: center;
+  margin:0px;
+	color: #fff;
+
+}*/
+.intro div{
+text-align: center;
+margin: 0 auto;
+}
+.intro .title{
+  width: 30%;
+  height: 50px;
+  background: #d65;
+}
+.intro .content{
+  width: 30%;
+  height: 150px;
+  background: #ff5;
+}
+.intro .button{
+  width: 20%;
+  height: 40px;
+  background: #fcc;
+}
